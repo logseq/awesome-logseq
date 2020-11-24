@@ -8,6 +8,7 @@ Add style to your `logseq/custom.css` file.
 - logseq_ono-sendai by Cannibalox: <https://github.com/cannibalox/logseq_ono-sendai>
 - logseq-dark-hpx by Cannibalox: <https://github.com/cannibalox/logseq-dark-hpx>
 - LogseqxRoam by Yash: <https://github.com/yashagrawal15/LogseqxRoam>
+- Base16-logseq by Nikdoof: https://github.com/nikdoof/base16-logseq
 
 ## Guides and How-tos:
 - An introduction to Logseq by Ed (Tech and Travel with Ed): <https://youtu.be/Vw-x7yTTO0s>
