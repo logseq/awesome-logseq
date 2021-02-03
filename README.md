@@ -12,6 +12,7 @@ Add style to your `logseq/custom.css` file.
 - logseq-dark-hpx by Cannibalox: <https://github.com/cannibalox/logseq-dark-hpx>
 - LogseqxRoam by Yash: <https://github.com/yashagrawal15/LogseqxRoam>
 - Base16-logseq by Nikdoof: https://github.com/nikdoof/base16-logseq
+- logseq-bujo-theme by PiotrSss: https://github.com/PiotrSss/logseq-bujo-theme
 
 ## Guides and How-tos:
 
