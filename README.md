@@ -19,6 +19,7 @@ Add style to your `logseq/custom.css` file.
 - An introduction to Logseq by Ed (Tech and Travel with Ed): <https://youtu.be/Vw-x7yTTO0s>
 - Logseq Update Video - <https://www.youtube.com/watch?v=Vw-x7yTTO0s>
 - How I use Logseq Daily - <https://www.youtube.com/watch?v=JCIdJBZGQLQ>
+- Roam Research Best Free Alternative - Logseq by Santi Younger - https://www.youtube.com/watch?v=jovMt17_Vd4
 
 ## Workflows and Innovations
 
