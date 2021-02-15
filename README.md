@@ -13,6 +13,7 @@ Add style to your `logseq/custom.css` file.
 - LogseqxRoam by Yash: <https://github.com/yashagrawal15/LogseqxRoam>
 - Base16-logseq by Nikdoof: https://github.com/nikdoof/base16-logseq
 - logseq-bujo-theme by PiotrSss: https://github.com/PiotrSss/logseq-bujo-theme
+- another logseq-dracula (more orange than pink) by akhater https://github.com/akhater/Dracula.logseq
 
 ## Guides and How-tos:
 
@@ -27,3 +28,4 @@ Add style to your `logseq/custom.css` file.
 - [logseq-snippets](https://github.com/71/logseq-snippets) by Greg - custom queries, code snippets, RSS feeds, and other extensions of the Logseq platform
 - [gcal2logseq](https://github.com/WilliamDurin/gcal2logseq) by Will - Python Script + Alfred Workflow to add Google Calendar events into your graph
 - [todoist2logseq](https://github.com/WilliamDurin/todoist2logseq) by Will - Bash Script + Alfred Workflow to import tasks from Todoist into your graph
+- [Lupin](https://github.com/akhater/Lupin) by akhater - Supercharge LogSeq with this Telegram chatbot - Flashcards | Brainmaps | Hypothesis Annotations | Quick entries | TODO | Bookmarks | Images upload and more 
