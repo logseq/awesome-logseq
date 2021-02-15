@@ -24,3 +24,4 @@ Add style to your `logseq/custom.css` file.
 ## Workflows and Innovations
 
 - [logseq-snippets](https://github.com/71/logseq-snippets) by Greg - custom queries, code snippets, RSS feeds, and other extensions of the Logseq platform
+- [logseq-zotero](https://github.com/aljedaxi/logseq-zotero/) by Aljedaxi - rudimentary means of exporting a zotero library to logseq
