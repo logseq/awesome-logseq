@@ -26,6 +26,7 @@ Add style to your `logseq/custom.css` file.
 ## Workflows and Innovations
 
 - [logseq-snippets](https://github.com/71/logseq-snippets) by Greg - custom queries, code snippets, RSS feeds, and other extensions of the Logseq platform
+- [logseq-zotero](https://github.com/aljedaxi/logseq-zotero/) by Aljedaxi - rudimentary means of exporting a zotero library to logseq
 - [gcal2logseq](https://github.com/WilliamDurin/gcal2logseq) by Will - Python Script + Alfred Workflow to add Google Calendar events into your graph
 - [todoist2logseq](https://github.com/WilliamDurin/todoist2logseq) by Will - Bash Script + Alfred Workflow to import tasks from Todoist into your graph
 - [Lupin](https://github.com/akhater/Lupin) by akhater - Supercharge LogSeq with this Telegram chatbot - Flashcards | Brainmaps | Hypothesis Annotations | Quick entries | TODO | Bookmarks | Images upload and more 
