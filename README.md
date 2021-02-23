@@ -25,6 +25,7 @@ Add style to your `logseq/custom.css` file.
 
 ## Workflows and Innovations
 
+- [logseq-tools](https://github.com/PiotrSss/logseq-tools) by PiotrSss - calendars, themes and more
 - [logseq-snippets](https://github.com/71/logseq-snippets) by Greg - custom queries, code snippets, RSS feeds, and other extensions of the Logseq platform
 - [logseq-zotero](https://github.com/aljedaxi/logseq-zotero/) by Aljedaxi - rudimentary means of exporting a zotero library to logseq
 - [gcal2logseq](https://github.com/WilliamDurin/gcal2logseq) by Will - Python Script + Alfred Workflow to add Google Calendar events into your graph
