@@ -33,3 +33,5 @@ Add style to your `logseq/custom.css` file.
 - [gcal2logseq](https://github.com/WilliamDurin/gcal2logseq) by Will - Python Script + Alfred Workflow to add Google Calendar events into your graph
 - [todoist2logseq](https://github.com/WilliamDurin/todoist2logseq) by Will - Bash Script + Alfred Workflow to import tasks from Todoist into your graph 
 - [org-logseq](https://github.com/ansmirnov/org-logseq) by ansmirnov - A script for navigating and editing logseq files using emacs.
+
+## Community knowledge gardens
