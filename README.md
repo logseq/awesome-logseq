@@ -36,6 +36,7 @@ Add style to your `logseq/custom.css` file.
 
 ## Community knowledge gardens
 ### En
+- [Logseq documentation](https://logseq.github.io/)
 - https://zhanghanduo.com/ by [handuo](https://github.com/handuozh/logseq-notes)
 - https://beepb00p.xyz/logseq/#/page/Personal%20infra by [karlicoss](https://github.com/karlicoss)
 
