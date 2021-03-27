@@ -35,3 +35,11 @@ Add style to your `logseq/custom.css` file.
 - [org-logseq](https://github.com/ansmirnov/org-logseq) by ansmirnov - A script for navigating and editing logseq files using emacs.
 
 ## Community knowledge gardens
+### En
+- https://zhanghanduo.com/ by [handuo](https://github.com/handuozh/logseq-notes)
+- https://beepb00p.xyz/logseq/#/page/Personal%20infra by [karlicoss](https://github.com/karlicoss)
+
+### Zh-CN
+- [花园漫步 to the Garden](https://tothegarden.vercel.app/)
+- https://zhangxueshan246.github.io/#/graph
+- https://xutuan.vercel.app/ - logseq使用经验分享
