@@ -14,6 +14,7 @@ Add style to your `logseq/custom.css` file.
 - Base16-logseq by Nikdoof: https://github.com/nikdoof/base16-logseq
 - logseq-bujo-theme by PiotrSss: https://github.com/PiotrSss/logseq-bujo-theme
 - another logseq-dracula (more orange than pink) by akhater https://github.com/akhater/Dracula.logseq
+- Harmony-theme-for-Logseq by DubininDmitry https://github.com/DubininDmitry/Harmony-theme-for-Logseq
 
 ## Guides and How-tos:
 
