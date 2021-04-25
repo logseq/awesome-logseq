@@ -15,6 +15,7 @@ Add style to your `logseq/custom.css` file.
 - logseq-bujo-theme by PiotrSss: https://github.com/PiotrSss/logseq-bujo-theme
 - another logseq-dracula (more orange than pink) by akhater https://github.com/akhater/Dracula.logseq
 - Harmony-theme-for-Logseq by DubininDmitry https://github.com/DubininDmitry/Harmony-theme-for-Logseq
+- logseq-Gruvbox by TallGuyJenks [TallGuyJenks/Logseq Gruvbox](https://gist.github.com/tallguyjenks/6afc75e52a3d52d475b9df9dafdecfd2)
 
 ## Guides and How-tos:
 
