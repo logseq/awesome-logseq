@@ -13,9 +13,11 @@ Add style to your `logseq/custom.css` file.
 - LogseqxRoam by Yash: <https://github.com/yashagrawal15/LogseqxRoam>
 - Base16-logseq by Nikdoof: https://github.com/nikdoof/base16-logseq
 - logseq-bujo-theme by PiotrSss: https://github.com/PiotrSss/logseq-bujo-theme
+- logseq-clean-themes by PiotrSss https://github.com/PiotrSss/logseq-clean-themes
 - another logseq-dracula (more orange than pink) by akhater https://github.com/akhater/Dracula.logseq
 - Harmony-theme-for-Logseq by DubininDmitry https://github.com/DubininDmitry/Harmony-theme-for-Logseq
 - logseq-Gruvbox by TallGuyJenks [TallGuyJenks/Logseq Gruvbox](https://gist.github.com/tallguyjenks/6afc75e52a3d52d475b9df9dafdecfd2)
+- logseq-clean-themes-alt a fork of logseq-clean-themes by pengx17 https://github.com/pengx17/logseq-clean-themes-alt
 
 ## Guides and How-tos:
 
