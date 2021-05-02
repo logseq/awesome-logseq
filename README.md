@@ -48,3 +48,4 @@ Add style to your `logseq/custom.css` file.
 - [花园漫步 to the Garden](https://tothegarden.vercel.app/)
 - https://zhangxueshan246.github.io/#/graph
 - https://xutuan.vercel.app/ - logseq使用经验分享
+- [OKR + GTD + Note => Logseq](https://www.bmpi.dev/self/okr-gtd-note-logseq/)
