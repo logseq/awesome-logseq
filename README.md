@@ -18,6 +18,7 @@ Add style to your `logseq/custom.css` file.
 - Harmony-theme-for-Logseq by DubininDmitry https://github.com/DubininDmitry/Harmony-theme-for-Logseq
 - logseq-Gruvbox by TallGuyJenks [TallGuyJenks/Logseq Gruvbox](https://gist.github.com/tallguyjenks/6afc75e52a3d52d475b9df9dafdecfd2)
 - logseq-clean-themes-alt a fork of logseq-clean-themes by pengx17 https://github.com/pengx17/logseq-clean-themes-alt
+- Logseq Base16 Atelier Forest by Denaro https://github.com/DenaroCF/LS-Base16-Atelier-Forest-by-Denaro
 
 ## Guides and How-tos:
 
