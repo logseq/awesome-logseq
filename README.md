@@ -36,17 +36,22 @@ Add style to your `logseq/custom.css` file.
 - [logseq-snippets](https://github.com/71/logseq-snippets) by Greg - custom queries, code snippets, RSS feeds, and other extensions of the Logseq platform
 - [logseq-zotero](https://github.com/aljedaxi/logseq-zotero/) by Aljedaxi - rudimentary means of exporting a zotero library to logseq
 - [gcal2logseq](https://github.com/WilliamDurin/gcal2logseq) by Will - Python Script + Alfred Workflow to add Google Calendar events into your graph
-- [todoist2logseq](https://github.com/WilliamDurin/todoist2logseq) by Will - Bash Script + Alfred Workflow to import tasks from Todoist into your graph 
+- [todoist2logseq](https://github.com/WilliamDurin/todoist2logseq) by Will - Bash Script + Alfred Workflow to import tasks from Todoist into your graph
 - [org-logseq](https://github.com/ansmirnov/org-logseq) by ansmirnov - A script for navigating and editing logseq files using emacs.
 - [org-logseq](https://github.com/llcc/org-logseq) by llcc - Another elisp package to work with logseq when using emacs.
+- [webapp to local asset folder](https://gist.github.com/lezuber/aa034d82b3a21d7d96fcc73a9b906b25) by lezuber - A small python script for logseq webapp users that want to switch to the local version. It downloads all images to the local /assets folder.
+
 ## Community knowledge gardens
+
 ### En
+
 - [Logseq documentation](https://logseq.github.io/)
 - https://zhanghanduo.com/ by [handuo](https://github.com/handuozh/logseq-notes)
 - https://beepb00p.xyz/logseq/#/page/Personal%20infra by [karlicoss](https://github.com/karlicoss)
 
 ### Zh-CN
+
 - [花园漫步 to the Garden](https://tothegarden.vercel.app/)
 - https://zhangxueshan246.github.io/#/graph
-- https://xutuan.vercel.app/ - logseq使用经验分享
+- https://xutuan.vercel.app/ - logseq 使用经验分享
 - [OKR + GTD + Note => Logseq](https://www.bmpi.dev/self/okr-gtd-note-logseq/)
