@@ -21,6 +21,7 @@ Add style to your `logseq/custom.css` file.
 - [logseq-clean-themes-alt a fork of logseq-clean-themes](https://github.com/pengx17/logseq-clean-themes-alt) By pengx17
 - [Logseq Base16 Atelier Forest](https://github.com/DenaroCF/LS-Base16-Atelier-Forest-by-Denaro) By Denaro
 - [logseq-bonofix-theme](https://github.com/Sansui233/logseq-bonofix-theme/) By Sansui233
+- [logseq-dev-theme](https://github.com/pengx17/logseq-dev-theme) By pengx17
 
 ## Guides and How-tos:
 
