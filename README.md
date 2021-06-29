@@ -34,6 +34,9 @@ Add style to your `logseq/custom.css` file.
 
 ## Plugins
 
+- [logseq-plugin-heatmap](https://github.com/pengx17/logseq-plugin-heatmap) By pengx17 - Activity heatmap based on Journal Pages
+- [logseq-plugin-random-tools](https://github.com/pengx17/logseq-plugin-random-tools) By pengx17 - Add some enhancements to Logseq, like word counting and showing image in fullscreen
+
 ## Workflows and Innovations
 
 - [Lupin](https://github.com/akhater/Lupin) By akhater - Supercharge LogSeq with this Telegram chatbot - Flashcards | Brainmaps | Hypothesis Annotations | Quick entries | TODO | Bookmarks | Images upload and more
