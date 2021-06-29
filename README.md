@@ -32,6 +32,8 @@ Add style to your `logseq/custom.css` file.
 - [Roam Research Best Free Alternative Logseq](https://www.youtube.com/watch?v=jovMt17_Vd4) By Santi Younger
 - [How I'm Using Logseq For My DevLog & Technical Notes](https://www.youtube.com/watch?v=43PKm0TfyNk) By [@tallguyjenks](https://github.com/tallguyjenks)
 
+## Plugins
+
 ## Workflows and Innovations
 
 - [Lupin](https://github.com/akhater/Lupin) By akhater - Supercharge LogSeq with this Telegram chatbot - Flashcards | Brainmaps | Hypothesis Annotations | Quick entries | TODO | Bookmarks | Images upload and more
