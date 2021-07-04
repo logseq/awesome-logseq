@@ -22,6 +22,7 @@ Add style to your `logseq/custom.css` file.
 - [Logseq Base16 Atelier Forest](https://github.com/DenaroCF/LS-Base16-Atelier-Forest-by-Denaro) By Denaro
 - [logseq-bonofix-theme](https://github.com/Sansui233/logseq-bonofix-theme/) By Sansui233
 - [logseq-dev-theme](https://github.com/pengx17/logseq-dev-theme) By pengx17
+- [Cobra](https://github.com/santiyounger/Cobra) by santiyounger
 
 ## Guides and How-tos:
 
@@ -36,6 +37,7 @@ Add style to your `logseq/custom.css` file.
 
 - [logseq-plugin-heatmap](https://github.com/pengx17/logseq-plugin-heatmap) By pengx17 - Activity heatmap based on Journal Pages
 - [logseq-plugin-random-tools](https://github.com/pengx17/logseq-plugin-random-tools) By pengx17 - Add some enhancements to Logseq, like word counting and showing image in fullscreen
+- [Highlighters for Logseq Plugin](https://github.com/DenaroCF/Highlighters-for-Logseq) By DenaroCF - Add more colors for highlight in Logseq using slash commands 
 
 ## Workflows and Innovations
 
