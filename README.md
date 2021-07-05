@@ -32,12 +32,15 @@ Add style to your `logseq/custom.css` file.
 - [Logseq Update for Local File Storage](https://www.youtube.com/watch?v=Afmqowr0qEQ&ab_channel=TechWithEd)
 - [Roam Research Best Free Alternative Logseq](https://www.youtube.com/watch?v=jovMt17_Vd4) By Santi Younger
 - [How I'm Using Logseq For My DevLog & Technical Notes](https://www.youtube.com/watch?v=43PKm0TfyNk) By [@tallguyjenks](https://github.com/tallguyjenks)
+- [Making Obsidian play nice with Logseq](https://discuss.logseq.com/t/making-obsidian-play-nice-with-logseq/1185) By Luhmann
 
 ## Plugins
 
 - [logseq-plugin-heatmap](https://github.com/pengx17/logseq-plugin-heatmap) By pengx17 - Activity heatmap based on Journal Pages
 - [logseq-plugin-random-tools](https://github.com/pengx17/logseq-plugin-random-tools) By pengx17 - Add some enhancements to Logseq, like word counting and showing image in fullscreen
 - [Highlighters for Logseq Plugin](https://github.com/DenaroCF/Highlighters-for-Logseq) By DenaroCF - Add more colors for highlight in Logseq using slash commands 
+- [Eisenhover matrix for Logseq](https://discuss.logseq.com/t/css-template-eisenhower-matrix/526) By cannibalox
+- [custom columns/cards view (kanban)](https://discuss.logseq.com/t/css-mod-custom-columns-cards-view-kanban/228) By cannibalox
 
 ## Workflows and Innovations
 
