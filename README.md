@@ -23,6 +23,7 @@ Add style to your `logseq/custom.css` file.
 - [logseq-bonofix-theme](https://github.com/Sansui233/logseq-bonofix-theme/) By Sansui233
 - [logseq-dev-theme](https://github.com/pengx17/logseq-dev-theme) By pengx17
 - [Cobra](https://github.com/santiyounger/Cobra) by santiyounger
+- [Solarized Light](https://github.com/nmartin84/logseq-solarized) by nmartin84
 
 ## Guides and How-tos:
 
