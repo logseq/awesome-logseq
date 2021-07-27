@@ -45,6 +45,7 @@ Add style to your `logseq/custom.css` file.
 - [Highlighters for Logseq Plugin](https://github.com/DenaroCF/Highlighters-for-Logseq) By DenaroCF - Add more colors for highlight in Logseq using slash commands 
 - [Eisenhover matrix for Logseq](https://discuss.logseq.com/t/css-template-eisenhower-matrix/526) By cannibalox
 - [custom columns/cards view (kanban)](https://discuss.logseq.com/t/css-mod-custom-columns-cards-view-kanban/228) By cannibalox
+- [Table of Contents for pages](https://github.com/mschmidtkorth/logseq-msk-toc) By mschmidtkorth - See all of your headings for the current page and quickly navigate
 
 ## Workflows and Innovations
 
