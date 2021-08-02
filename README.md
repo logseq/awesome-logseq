@@ -43,6 +43,7 @@ Add style to your `logseq/custom.css` file.
 - [logseq-plugin-mark-map](https://github.com/vipzhicheng/logseq-plugin-mark-map) By vipzhicheng - Add markmap support to Logseq
 - [logseq-plugin-random-tools](https://github.com/pengx17/logseq-plugin-random-tools) By pengx17 - Add some enhancements to Logseq, like word counting and showing image in fullscreen
 - [Highlighters for Logseq Plugin](https://github.com/DenaroCF/Highlighters-for-Logseq) By DenaroCF - Add more colors for highlight in Logseq using slash commands 
+- [tools and plugins for logseq](https://github.com/cannibalox/logtools) By cannibalox
 - [Eisenhover matrix for Logseq](https://discuss.logseq.com/t/css-template-eisenhower-matrix/526) By cannibalox
 - [custom columns/cards view (kanban)](https://discuss.logseq.com/t/css-mod-custom-columns-cards-view-kanban/228) By cannibalox
 - [Table of Contents for pages](https://github.com/mschmidtkorth/logseq-msk-toc) By mschmidtkorth - See all of your headings for the current page and quickly navigate
