@@ -66,6 +66,7 @@ Add style to your `logseq/custom.css` file.
 ### En
 
 - [Logseq documentation](https://logseq.github.io/)
+- [Unofficial Logseq Documentation](https://mschmidtkorth.github.io/logseq-msk-docs) By [mschmidtkorth](https://github.com/mschmidtkorth)
 - <https://zhanghanduo.com/> By [handuo](https://github.com/handuozh/logseq-notes)
 - <https://beepb00p.xyz/logseq/#/page/Personal%20infra> By [karlicoss](https://github.com/karlicoss)
 
