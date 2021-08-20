@@ -50,6 +50,7 @@ Add style to your `logseq/custom.css` file.
 - [Eisenhover matrix for Logseq](https://discuss.logseq.com/t/css-template-eisenhower-matrix/526) By cannibalox
 - [custom columns/cards view (kanban)](https://discuss.logseq.com/t/css-mod-custom-columns-cards-view-kanban/228) By cannibalox
 - [Table of Contents for pages](https://github.com/mschmidtkorth/logseq-msk-toc) By mschmidtkorth - See all of your headings for the current page and quickly navigate
+- [logseq-plugin-link-prerview](https://github.com/pengx17/logseq-plugin-link-preview) by pengx17 - add external link preview using OpenGraph metadata
 
 ## Workflows and Innovations
 
