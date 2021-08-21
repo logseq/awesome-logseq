@@ -41,6 +41,7 @@ Add style to your `logseq/custom.css` file.
 
 ## Plugins
 
+- [logseq-habit-tracker](https://github.com/c6p/logseq-habit-tracker) By c6p - Track habits from daily journal pages
 - [logseq-plugin-heatmap](https://github.com/pengx17/logseq-plugin-heatmap) By pengx17 - Activity heatmap based on Journal Pages
 - [logseq-plugin-mark-map](https://github.com/vipzhicheng/logseq-plugin-mark-map) By vipzhicheng - Add markmap support to Logseq
 - [logseq-plugin-random-tools](https://github.com/pengx17/logseq-plugin-random-tools) By pengx17 - Add some enhancements to Logseq, like word counting and showing image in fullscreen
