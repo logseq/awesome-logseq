@@ -67,7 +67,7 @@ Add style to your `logseq/custom.css` file.
 - [org-logseq](https://github.com/llcc/org-logseq) By llcc - Another elisp package to work with logseq when using emacs.
 - [webapp to local asset folder](https://gist.github.com/lezuber/aa034d82b3a21d7d96fcc73a9b906b25) By lezuber - A small python script for logseq webapp users that want to switch to the local version. It downloads all images to the local /assets folder.
 - [dayone2logseq-md](https://github.com/mhejda/dayone2logseq-md) By mhejda - Python script for batch conversion of DayOne JSON-exported journals into Logseq-friendly Markdown files
-- [Yarle](https://github.com/akosbalasko/yarle) By akosbalasko - Yarle(Yet Another Rope Ladder from Evernote) is a cross-platform desktop tool for converting Evernote notebooks into Markdown format supporting Logseq dialect comprehensively. 
+- [Yarle](https://github.com/akosbalasko/yarle) By akosbalasko - Yarle(Yet Another Rope Ladder from Evernote) is a cross-platform desktop tool that converts Evernote notebooks into Markdown format supporting Logseq dialect comprehensively. 
   
 ## Community knowledge gardens
 
