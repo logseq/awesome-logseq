@@ -46,6 +46,7 @@ Add style to your `logseq/custom.css` file.
 - [logseq-hypothesis](https://github.com/c6p/logseq-hypothesis) By c6p - Get hypothes.is annotations into logseq
 - [logseq-plugin-mark-map](https://github.com/vipzhicheng/logseq-plugin-mark-map) By vipzhicheng - Add markmap support to Logseq
 - [logseq-plugin-copy-ref-to-journal](https://github.com/vipzhicheng/logseq-plugin-copy-ref-to-journal) By vipzhicheng - Copy any page blocks ref to today's journal page.
+- [logseq-plugin-lock](https://github.com/vipzhicheng/logseq-plugin-lock) By vipzhicheng - Lock block with your password, and only can unlock with your password.
 - [logseq-plugin-random-tools](https://github.com/pengx17/logseq-plugin-random-tools) By pengx17 - Add some enhancements to Logseq, like word counting and showing image in fullscreen
 - [Highlighters for Logseq Plugin](https://github.com/DenaroCF/Highlighters-for-Logseq) By DenaroCF - Add more colors for highlight in Logseq using slash commands 
 - [tools and plugins for logseq](https://github.com/cannibalox/logtools) By cannibalox
