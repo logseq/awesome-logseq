@@ -24,7 +24,7 @@ Add style to your `logseq/custom.css` file.
 - [logseq-dev-theme](https://github.com/pengx17/logseq-dev-theme) By pengx17
 - [Cobra](https://github.com/santiyounger/Cobra) by santiyounger
 - [Enhanced Dark Theme](https://github.com/mschmidtkorth/logseq-msk-enhanced) by  mschmidtkorth
-- [logseq-default-dark-0-saturation](https://github.com/LeonWong0609/logseq-default-dark-0-saturation) by LeonWong0609 
+- [logseq-default-dark-0-saturation](https://github.com/LeonWong0609/logseq-default-dark-0-saturation) by LeonWong0609
 - [Solarized Light](https://github.com/nmartin84/logseq-solarized) by nmartin84
 - [Tokyo Night](https://github.com/nmartin84/logseq-tokyo-night-theme) by nmartin84
 - [Logseq Bear Theme](https://github.com/rcvd/logseq-bear-theme) by Alexander Rink
@@ -48,8 +48,9 @@ Add style to your `logseq/custom.css` file.
 - [logseq-plugin-mark-map](https://github.com/vipzhicheng/logseq-plugin-mark-map) By vipzhicheng - Add markmap support to Logseq
 - [logseq-plugin-copy-ref-to-journal](https://github.com/vipzhicheng/logseq-plugin-copy-ref-to-journal) By vipzhicheng - Copy any page blocks ref to today's journal page.
 - [logseq-plugin-lock](https://github.com/vipzhicheng/logseq-plugin-lock) By vipzhicheng - Lock block with your password, and only can unlock with your password.
+- [logseq-plugin-comment-block](https://github.com/vipzhicheng/logseq-plugin-comment-block) By vipzhicheng - An automatic block comment history workflow.
 - [logseq-plugin-random-tools](https://github.com/pengx17/logseq-plugin-random-tools) By pengx17 - Add some enhancements to Logseq, like word counting and showing image in fullscreen
-- [Highlighters for Logseq Plugin](https://github.com/DenaroCF/Highlighters-for-Logseq) By DenaroCF - Add more colors for highlight in Logseq using slash commands 
+- [Highlighters for Logseq Plugin](https://github.com/DenaroCF/Highlighters-for-Logseq) By DenaroCF - Add more colors for highlight in Logseq using slash commands
 - [tools and plugins for logseq](https://github.com/cannibalox/logtools) By cannibalox
 - [Eisenhover matrix for Logseq](https://discuss.logseq.com/t/css-template-eisenhower-matrix/526) By cannibalox
 - [custom columns/cards view (kanban)](https://discuss.logseq.com/t/css-mod-custom-columns-cards-view-kanban/228) By cannibalox
@@ -70,8 +71,8 @@ Add style to your `logseq/custom.css` file.
 - [org-logseq](https://github.com/llcc/org-logseq) By llcc - Another elisp package to work with logseq when using emacs.
 - [webapp to local asset folder](https://gist.github.com/lezuber/aa034d82b3a21d7d96fcc73a9b906b25) By lezuber - A small python script for logseq webapp users that want to switch to the local version. It downloads all images to the local /assets folder.
 - [dayone2logseq-md](https://github.com/mhejda/dayone2logseq-md) By mhejda - Python script for batch conversion of DayOne JSON-exported journals into Logseq-friendly Markdown files
-- [Yarle](https://github.com/akosbalasko/yarle) By akosbalasko - Yarle(Yet Another Rope Ladder from Evernote) is a cross-platform desktop tool that converts Evernote notebooks into Markdown format supporting Logseq dialect comprehensively. 
-  
+- [Yarle](https://github.com/akosbalasko/yarle) By akosbalasko - Yarle(Yet Another Rope Ladder from Evernote) is a cross-platform desktop tool that converts Evernote notebooks into Markdown format supporting Logseq dialect comprehensively.
+
 ## Community knowledge gardens
 
 ### En
