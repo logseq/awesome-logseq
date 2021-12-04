@@ -87,3 +87,4 @@ Add style to your `logseq/custom.css` file.
 - <https://zhangxueshan246.github.io/#/graph>
 - <https://xutuan.vercel.app/> - logseq 使用经验分享
 - [OKR + GTD + Note => Logseq](https://www.bmpi.dev/self/okr-gtd-note-logseq/)
+- [Abosen's Digital Garden](https://logseq.abosen.top)
