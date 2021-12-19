@@ -28,6 +28,7 @@ Add style to your `logseq/custom.css` file.
 - [Solarized Light](https://github.com/nmartin84/logseq-solarized) by nmartin84
 - [Tokyo Night](https://github.com/nmartin84/logseq-tokyo-night-theme) by nmartin84
 - [Logseq Bear Theme](https://github.com/rcvd/logseq-bear-theme) by Alexander Rink
+- [Logseq All Day theme](https://github.com/tobealive/logseq-allday-theme) by tobealive
 
 ## Guides and How-tos:
 
