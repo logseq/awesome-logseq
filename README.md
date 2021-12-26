@@ -29,6 +29,7 @@ Add style to your `logseq/custom.css` file.
 - [Tokyo Night](https://github.com/nmartin84/logseq-tokyo-night-theme) by nmartin84
 - [Logseq Bear Theme](https://github.com/rcvd/logseq-bear-theme) by Alexander Rink
 - [Logseq All Day theme](https://github.com/tobealive/logseq-allday-theme) by tobealive
+- [Logseq Textbook Theme](https://github.com/joeykhuang/logseq-textbook-theme) by joeykhuang
 
 ## Guides and How-tos:
 
