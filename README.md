@@ -30,6 +30,7 @@ Add style to your `logseq/custom.css` file.
 - [Logseq Bear Theme](https://github.com/rcvd/logseq-bear-theme) by Alexander Rink
 - [Logseq All Day theme](https://github.com/tobealive/logseq-allday-theme) by tobealive
 - [Logseq Textbook Theme](https://github.com/joeykhuang/logseq-textbook-theme) by joeykhuang
+- [Logseq Woz Theme](https://github.com/haydenull/logseq-woz-theme) by haydenull
 
 ## Guides and How-tos:
 
@@ -59,7 +60,9 @@ Add style to your `logseq/custom.css` file.
 - [Table of Contents for pages](https://github.com/mschmidtkorth/logseq-msk-toc) By mschmidtkorth - See all of your headings for the current page and quickly navigate
 - [logseq-plugin-link-prerview](https://github.com/pengx17/logseq-plugin-link-preview) by pengx17 - add external link preview using OpenGraph metadata
 - [logseq-plugin-tabs](https://github.com/pengx17/logseq-plugin-tabs) by pengx17 - A Logseq plugin which lets you open pages in tabs like working in the browser
-
+- [logseq-plugin-markdown-table](https://github.com/haydenull/logseq-plugin-markdown-table) by haydenull - Logseq markdown table editor.
+- [logseq-logseq-plugin-browser](https://github.com/haydenull/logseq-plugin-browser) by haydenull - Logseq browser plugin.
+- [logseq-plugin-milestone](https://github.com/haydenull/logseq-plugin-milestone) by haydenull - Show milestone in calendar .
 ## Workflows and Innovations
 
 - [Lupin](https://github.com/akhater/Lupin) By akhater - Supercharge LogSeq with this Telegram chatbot - Flashcards | Brainmaps | Hypothesis Annotations | Quick entries | TODO | Bookmarks | Images upload and more
