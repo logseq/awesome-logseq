@@ -31,6 +31,7 @@ Add style to your `logseq/custom.css` file.
 - [Logseq All Day theme](https://github.com/tobealive/logseq-allday-theme) by tobealive
 - [Logseq Textbook Theme](https://github.com/joeykhuang/logseq-textbook-theme) by joeykhuang
 - [Logseq Woz Theme](https://github.com/haydenull/logseq-woz-theme) by haydenull
+- [Simple Dark Theme](https://github.com/flowerornament/logseq-simple-dark-theme/) by flowerornament
 
 ## Guides and How-tos:
 
