@@ -8,6 +8,7 @@ Awesome Logseq extensions created by the community &lt;3
 
 Add style to your `logseq/custom.css` file.
 
+- [logseq-cusgit-theme](https://github.com/mendax1234/logseq-cusgit-theme) By mendax1234
 - [logseq-dracula](https://github.com/SlyBouhafs/logseq-dracula) By SlyBouhafs
 - [logseq_ono-sendai](https://github.com/cannibalox/logseq_ono-sendai) By Cannibalox:
 - [logseq-dark-hpx](https://github.com/cannibalox/logseq-dark-hpx) By Cannibalox:
