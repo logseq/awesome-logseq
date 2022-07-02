@@ -45,6 +45,7 @@ Add style to your `logseq/custom.css` file.
 - [How I'm Using Logseq For My DevLog & Technical Notes](https://www.youtube.com/watch?v=43PKm0TfyNk) By [@tallguyjenks](https://github.com/tallguyjenks)
 - [Making Obsidian play nice with Logseq](https://discuss.logseq.com/t/making-obsidian-play-nice-with-logseq/1185) By Luhmann
 - [Bookmarklets that copy webpage title + URL+ selection to md/org formats, convenient for pasting to logseq](https://gist.github.com/idelem/a2b15c4fe7613487e16fb55ba3af1be9)
+- [Managing Code Snippets Using Logseq](https://garethbrown.net/2022/07/01/managing-code-snippets-in-logseq)
 
 ## Plugins
 
