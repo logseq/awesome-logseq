@@ -47,6 +47,9 @@ Add style to your `logseq/custom.css` file.
 - [Bookmarklets that copy webpage title + URL+ selection to md/org formats, convenient for pasting to logseq](https://gist.github.com/idelem/a2b15c4fe7613487e16fb55ba3af1be9)
 - [Managing Code Snippets Using Logseq](https://garethbrown.net/2022/07/01/managing-code-snippets-in-logseq)
 
+## Tools
+- [Logseq Advanced Query Builder](https://adxsoft.github.io/logseqadvancedquerybuilder/) by adxsoft - An Experimental online tool to help Logseq Users build advanced queries from simple commands.
+
 ## Plugins
 
 - [logseq-habit-tracker](https://github.com/c6p/logseq-habit-tracker) By c6p - Track habits from daily journal pages
