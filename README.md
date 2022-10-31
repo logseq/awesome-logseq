@@ -70,6 +70,8 @@ Add style to your `logseq/custom.css` file.
 - [logseq-plugin-markdown-table](https://github.com/haydenull/logseq-plugin-markdown-table) by haydenull - Logseq markdown table editor.
 - [logseq-logseq-plugin-browser](https://github.com/haydenull/logseq-plugin-browser) by haydenull - Logseq browser plugin.
 - [logseq-plugin-milestone](https://github.com/haydenull/logseq-plugin-milestone) by haydenull - Show milestone in calendar .
+- [logseq-omnivore](https://github.com/omnivore-app/logseq-omnivore) by sywhb - Save articles to read later, add notes and highlights, and import into Logseq.
+
 ## Workflows and Innovations
 
 - [Lupin](https://github.com/akhater/Lupin) By akhater - Supercharge LogSeq with this Telegram chatbot - Flashcards | Brainmaps | Hypothesis Annotations | Quick entries | TODO | Bookmarks | Images upload and more
