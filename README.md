@@ -73,6 +73,7 @@ Add style to your `logseq/custom.css` file.
 - [logseq-logseq-plugin-browser](https://github.com/haydenull/logseq-plugin-browser) by haydenull - Logseq browser plugin.
 - [logseq-plugin-milestone](https://github.com/haydenull/logseq-plugin-milestone) by haydenull - Show milestone in calendar .
 - [logseq-omnivore](https://github.com/omnivore-app/logseq-omnivore) by sywhb - Save articles to read later, add notes and highlights, and import into Logseq.
+- [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) by EINDEX - Sync [Memos](https://github.com/usememos/memos) to logseq.
 
 ## Workflows and Innovations
 
