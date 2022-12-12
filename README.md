@@ -34,6 +34,7 @@ Add style to your `logseq/custom.css` file.
 - [Logseq Woz Theme](https://github.com/haydenull/logseq-woz-theme) by haydenull
 - [Simple Dark Theme](https://github.com/flowerornament/logseq-simple-dark-theme/) by flowerornament
 - [Simple Parametric Theme](https://github.com/flowerornament/logseq-simple-parametric-theme/) by flowerornament
+- [ logseq-developer-theme](https://github.com/UNICKCHENG/logseq-developer-theme) by UNICKCHENG
 
 ## Guides and How-tos:
 
