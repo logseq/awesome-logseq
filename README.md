@@ -52,6 +52,7 @@ Add style to your `logseq/custom.css` file.
 
 ## Plugins
 
+- [loglink](https://github.com/hankhank10/loglink-plugin) by hankhank10 - Send content from mobile apps like Telegram to your Logseq graph
 - [logseq-habit-tracker](https://github.com/c6p/logseq-habit-tracker) By c6p - Track habits from daily journal pages
 - [logseq-plugin-heatmap](https://github.com/pengx17/logseq-plugin-heatmap) By pengx17 - Activity heatmap based on Journal Pages
 - [logseq-hypothesis](https://github.com/c6p/logseq-hypothesis) By c6p - Get hypothes.is annotations into logseq
