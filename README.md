@@ -1,12 +1,19 @@
 # awesome-logseq
 
-Awesome Logseq extensions created by the community &lt;3
+Awesome Logseq extensions and resources created by the community &lt;3
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## CSS Themes
+## Table of Contents
 
-Add style to your `logseq/custom.css` file.
+* [CSS Themes](#css-themes)
+* [Plugins](#plugins)
+* [Guides and How-tos](#guides-and-how-tos)
+* [Workflows and Innovations](#workflows-and-innovations)
+* [Other Resources](#other-resources)
+* [Community Knowledge Gardens](#community-knowledge-gardens)
+
+## CSS Themes
 
 - [logseq-cusgit-theme](https://github.com/mendax1234/logseq-cusgit-theme) By mendax1234
 - [logseq-dracula](https://github.com/SlyBouhafs/logseq-dracula) By SlyBouhafs
@@ -36,20 +43,7 @@ Add style to your `logseq/custom.css` file.
 - [Simple Parametric Theme](https://github.com/flowerornament/logseq-simple-parametric-theme/) by flowerornament
 - [ logseq-developer-theme](https://github.com/UNICKCHENG/logseq-developer-theme) by UNICKCHENG
 
-## Guides and How-tos:
-
-- [An introduction to Logseq](https://youtu.be/Vw-x7yTTO0s) By Ed (Tech and Travel with Ed)
-- [Logseq Update Video](https://www.youtube.com/watch?v=Vw-x7yTTO0s)
-- [How I use Logseq Daily](https://www.youtube.com/watch?v=JCIdJBZGQLQ)
-- [Logseq Update for Local File Storage](https://www.youtube.com/watch?v=Afmqowr0qEQ&ab_channel=TechWithEd)
-- [Roam Research Best Free Alternative Logseq](https://www.youtube.com/watch?v=jovMt17_Vd4) By Santi Younger
-- [How I'm Using Logseq For My DevLog & Technical Notes](https://www.youtube.com/watch?v=43PKm0TfyNk) By [@tallguyjenks](https://github.com/tallguyjenks)
-- [Making Obsidian play nice with Logseq](https://discuss.logseq.com/t/making-obsidian-play-nice-with-logseq/1185) By Luhmann
-- [Bookmarklets that copy webpage title + URL+ selection to md/org formats, convenient for pasting to logseq](https://gist.github.com/idelem/a2b15c4fe7613487e16fb55ba3af1be9)
-- [Managing Code Snippets Using Logseq](https://garethbrown.net/2022/07/01/managing-code-snippets-in-logseq)
-
-## Tools
-- [Logseq Advanced Query Builder](https://adxsoft.github.io/logseqadvancedquerybuilder/) by adxsoft - An Experimental online tool to help Logseq Users build advanced queries from simple commands.
+See https://xyhp915.github.io/logseq-marketplace-table/ and filter to `Themes` for a full list.
 
 ## Plugins
 
@@ -75,6 +69,20 @@ Add style to your `logseq/custom.css` file.
 - [logseq-omnivore](https://github.com/omnivore-app/logseq-omnivore) by sywhb - Save articles to read later, add notes and highlights, and import into Logseq.
 - [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) by EINDEX - Sync [Memos](https://github.com/usememos/memos) to logseq.
 
+See https://xyhp915.github.io/logseq-marketplace-table/ and filter to `Plugins` for a full list.
+
+## Guides and How-tos
+
+- [An introduction to Logseq](https://youtu.be/Vw-x7yTTO0s) By Ed (Tech and Travel with Ed)
+- [Logseq Update Video](https://www.youtube.com/watch?v=Vw-x7yTTO0s)
+- [How I use Logseq Daily](https://www.youtube.com/watch?v=JCIdJBZGQLQ)
+- [Logseq Update for Local File Storage](https://www.youtube.com/watch?v=Afmqowr0qEQ&ab_channel=TechWithEd)
+- [Roam Research Best Free Alternative Logseq](https://www.youtube.com/watch?v=jovMt17_Vd4) By Santi Younger
+- [How I'm Using Logseq For My DevLog & Technical Notes](https://www.youtube.com/watch?v=43PKm0TfyNk) By [@tallguyjenks](https://github.com/tallguyjenks)
+- [Making Obsidian play nice with Logseq](https://discuss.logseq.com/t/making-obsidian-play-nice-with-logseq/1185) By Luhmann
+- [Bookmarklets that copy webpage title + URL+ selection to md/org formats, convenient for pasting to logseq](https://gist.github.com/idelem/a2b15c4fe7613487e16fb55ba3af1be9)
+- [Managing Code Snippets Using Logseq](https://garethbrown.net/2022/07/01/managing-code-snippets-in-logseq)
+
 ## Workflows and Innovations
 
 - [Lupin](https://github.com/akhater/Lupin) By akhater - Supercharge LogSeq with this Telegram chatbot - Flashcards | Brainmaps | Hypothesis Annotations | Quick entries | TODO | Bookmarks | Images upload and more
@@ -92,11 +100,12 @@ Add style to your `logseq/custom.css` file.
 - [LogLink](https://loglink.it/) - Send text, images and locations from mobile via Telegram (and
   soon other platforms) to your graph
 
-## Community Resources
-* https://www.logseqtimes.com/ - Unofficial home for news, updates and opinions from the world of
+## Other Resources
+- https://www.logseqtimes.com/ - Unofficial home for news, updates and opinions from the world of
   Logseq
+- [Logseq Advanced Query Builder](https://adxsoft.github.io/logseqadvancedquerybuilder/) by adxsoft - An Experimental online tool to help Logseq Users build advanced queries from simple commands.
 
-## Community knowledge gardens
+## Community Knowledge Gardens
 
 ### En
 
@@ -111,3 +120,5 @@ Add style to your `logseq/custom.css` file.
 - <https://xutuan.vercel.app/> - logseq 使用经验分享
 - [OKR + GTD + Note => Logseq](https://www.bmpi.dev/self/okr-gtd-note-logseq/)
 - [Abosen's Digital Garden](https://logseq.abosen.top)
+
+See https://github.com/pengx17/logseq-publish/network/dependents for a large, active list of public graphs.
