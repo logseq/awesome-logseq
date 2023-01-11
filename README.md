@@ -89,6 +89,12 @@ Add style to your `logseq/custom.css` file.
 - [webapp to local asset folder](https://gist.github.com/lezuber/aa034d82b3a21d7d96fcc73a9b906b25) By lezuber - A small python script for logseq webapp users that want to switch to the local version. It downloads all images to the local /assets folder.
 - [dayone2logseq-md](https://github.com/mhejda/dayone2logseq-md) By mhejda - Python script for batch conversion of DayOne JSON-exported journals into Logseq-friendly Markdown files
 - [Yarle](https://github.com/akosbalasko/yarle) By akosbalasko - Yarle(Yet Another Rope Ladder from Evernote) is a cross-platform desktop tool that converts Evernote notebooks into Markdown format supporting Logseq dialect comprehensively.
+- [LogLink](https://loglink.it/) - Send text, images and locations from mobile via Telegram (and
+  soon other platforms) to your graph
+
+## Community Resources
+* https://www.logseqtimes.com/ - Unofficial home for news, updates and opinions from the world of
+  Logseq
 
 ## Community knowledge gardens
 
