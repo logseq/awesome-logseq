@@ -104,6 +104,7 @@ See https://xyhp915.github.io/logseq-marketplace-table/ and filter to `Plugins` 
 - https://www.logseqtimes.com/ - Unofficial home for news, updates and opinions from the world of
   Logseq
 - [Logseq Advanced Query Builder](https://adxsoft.github.io/logseqadvancedquerybuilder/) by adxsoft - An Experimental online tool to help Logseq Users build advanced queries from simple commands.
+- https://github.com/cannibalox/movie-cli-2 - CLI tool for saving movie details into Logseq
 
 ## Community Knowledge Gardens
 
