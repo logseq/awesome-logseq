@@ -99,6 +99,7 @@ See https://xyhp915.github.io/logseq-marketplace-table/ and filter to `Plugins` 
 - [Yarle](https://github.com/akosbalasko/yarle) By akosbalasko - Yarle(Yet Another Rope Ladder from Evernote) is a cross-platform desktop tool that converts Evernote notebooks into Markdown format supporting Logseq dialect comprehensively.
 - [LogLink](https://loglink.it/) - Send text, images and locations from mobile via Telegram (and
   soon other platforms) to your graph
+- [dly](https://github.com/wsw70/dly) - Create a daily note directly from the command line
 
 ## Other Resources
 - https://www.logseqtimes.com/ - Unofficial home for news, updates and opinions from the world of
