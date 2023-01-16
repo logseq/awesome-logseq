@@ -110,7 +110,7 @@ See https://xyhp915.github.io/logseq-marketplace-table/ and filter to `Plugins` 
 
 ### En
 
-- [Logseq documentation](https://logseq.github.io/)
+- [Logseq documentation](https://docs.logseq.com/)
 - [Unofficial Logseq Documentation](https://mschmidtkorth.github.io/logseq-msk-docs) By [mschmidtkorth](https://github.com/mschmidtkorth)
 - <https://beepb00p.xyz/logseq/#/page/Personal%20infra> By [karlicoss](https://github.com/karlicoss)
 
