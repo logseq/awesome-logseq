@@ -67,7 +67,6 @@ See https://xyhp915.github.io/logseq-marketplace-table/ and filter to `Themes` f
 - [logseq-plugin-markdown-table](https://github.com/haydenull/logseq-plugin-markdown-table) by haydenull - Logseq markdown table editor.
 - [logseq-logseq-plugin-browser](https://github.com/haydenull/logseq-plugin-browser) by haydenull - Logseq browser plugin.
 - [logseq-plugin-milestone](https://github.com/haydenull/logseq-plugin-milestone) by haydenull - Show milestone in calendar .
-- [logseq-omnivore](https://github.com/omnivore-app/logseq-omnivore) by sywhb - Save articles to read later, add notes and highlights, and import into Logseq.
 - [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) by EINDEX - Sync [Memos](https://github.com/usememos/memos) to logseq.
 
 See https://xyhp915.github.io/logseq-marketplace-table/ and filter to `Plugins` for a full list.
@@ -80,6 +79,8 @@ These are integrations that are officially supported by the third party:
 - [Matter](https://github.com/getmatterapp/logseq-matter#readme) - Provides Logseq plugin to sync Matter highlights with Logseq
 - [SamePage](https://samepage.network/docs/logseq/install) - Provides Logseq plugin to sync your graph with SamePage notebooks
 - [Snipd](https://hub.logseq.com/integrations/aV9AgETypcPcf8avYcHXQT/feed-your-logseq-graph-using-snipd-podcast-notes/3U63PohVXL24PvbvXUzf2b) - Mobile app that exports Snipd podcast notes to Logseq
+- [Omnivore](https://github.com/omnivore-app/logseq-omnivore) - Provides Logseq plugin to fetch
+  Omnivore articles and highlights
 - [NeuraCache](https://neuracache.com/) - Mobile app that provides additional flashcard and spaced repetition functionality on Logseq graphs
 
 ## Guides and How-tos
