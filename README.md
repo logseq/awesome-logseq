@@ -43,6 +43,7 @@ Awesome Logseq extensions and resources created by the community &lt;3
 - [Simple Dark Theme](https://github.com/flowerornament/logseq-simple-dark-theme/) by flowerornament
 - [Simple Parametric Theme](https://github.com/flowerornament/logseq-simple-parametric-theme/) by flowerornament
 - [ logseq-developer-theme](https://github.com/UNICKCHENG/logseq-developer-theme) by UNICKCHENG
+- [Catppuccin](https://github.com/catppuccin/logseq) by griimick
 
 See https://xyhp915.github.io/logseq-marketplace-table/ and filter to `Themes` for a full list.
 
