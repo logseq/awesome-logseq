@@ -113,6 +113,10 @@ These are integrations that are officially supported by the third party:
 - [LogLink](https://loglink.it/) - Send text, images and locations from mobile via Telegram (and
   soon other platforms) to your graph
 - [dly](https://github.com/wsw70/dly) - Create a daily note directly from the command line
+- [fireSeqSearch](https://github.com/Endle/fireSeqSearch) - Extension that displays logseq results
+  alongside google ones
+- https://www.logseqtemplates.com/ - Browse, share and download community templates. Sharing is done
+  through the plugin
 
 ## Other Resources
 - https://www.logseqtimes.com/ - Unofficial home for news, updates and opinions from the world of
