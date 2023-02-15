@@ -115,6 +115,8 @@ These are integrations that are officially supported by the third party:
 - [dly](https://github.com/wsw70/dly) - Create a daily note directly from the command line
 - [fireSeqSearch](https://github.com/Endle/fireSeqSearch) - Extension that displays logseq results
   alongside google ones
+- [logseq-copilot](https://github.com/EINDEX/logseq-copilot) - Chrome extension that display logseq
+  results next to google ones
 - https://www.logseqtemplates.com/ - Browse, share and download community templates. Sharing is done
   through the plugin
 
