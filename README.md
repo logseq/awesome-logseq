@@ -119,6 +119,7 @@ These are integrations that are officially supported by the third party:
   results next to google ones
 - https://www.logseqtemplates.com/ - Browse, share and download community templates. Sharing is done
   through the plugin
+- https://github.com/dustinlacewell/logseq-guide - Self hosting Logseq
 
 ## Other Resources
 - https://www.logseqtimes.com/ - Unofficial home for news, updates and opinions from the world of
