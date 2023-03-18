@@ -69,6 +69,7 @@ See https://xyhp915.github.io/logseq-marketplace-table/ and filter to `Themes` f
 - [logseq-logseq-plugin-browser](https://github.com/haydenull/logseq-plugin-browser) by haydenull - Logseq browser plugin.
 - [logseq-plugin-milestone](https://github.com/haydenull/logseq-plugin-milestone) by haydenull - Show milestone in calendar .
 - [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) by EINDEX - Sync [Memos](https://github.com/usememos/memos) to logseq.
+- [logseq13-full-house](https://github.com/stdword/logseq13-full-house-plugin) by stdword — Logseq Templates you will really love ❤️
 
 See https://xyhp915.github.io/logseq-marketplace-table/ and filter to `Plugins` for a full list.
 
