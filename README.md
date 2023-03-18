@@ -22,7 +22,7 @@ Awesome Logseq extensions and resources created by the community &lt;3
 - [logseq-dark-hpx](https://github.com/cannibalox/logseq-dark-hpx) By Cannibalox:
 - [LogseqxRoam](https://github.com/yashagrawal15/LogseqxRoam) By Yash:
 - [Base16-logseq](https://github.com/nikdoof/base16-logseq) By Nikdoof:
-- [logseq-bujo-theme](https://github.com/PiotrSss/logseq-bujo-theme) By PiotrSss:
+- [logseq-bujo-theme](https://github.com/stdword/logseq-bujo-theme) by PiotrSss & stdword, inspired by Bullet Journals ☕️
 - [logseq-clean-themes](https://github.com/PiotrSss/logseq-clean-themes) By PiotrSss
 - [another logseq-dracula (more orange than pink)](https://github.com/akhater/Dracula.logseq) By akhater
 - [Harmony-theme-for-Logseq](https://github.com/DubininDmitry/Harmony-theme-for-Logseq) By DubininDmitry
