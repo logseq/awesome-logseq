@@ -1,3 +1,5 @@
+# Contributing to awesome-logseq
+
 Thanks for your interest in contributing! :heart: :man_dancing: :woman_dancing:
 
 For info on how to contribute, the [editing a
