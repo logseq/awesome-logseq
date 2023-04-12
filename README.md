@@ -1,4 +1,4 @@
-# awesome-logseq ![awesome-bot-status](https://github.com/optimistic5/awesome-logseq/workflows/Awesome%20Bot/badge.svg)
+# awesome-logseq ![awesome-bot-status](https://github.com/logseq/awesome-logseq/workflows/Awesome%20Bot/badge.svg)
 
 Awesome Logseq extensions and resources created by the community &lt;3
 
