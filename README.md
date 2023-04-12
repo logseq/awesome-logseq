@@ -36,8 +36,6 @@ Awesome Logseq extensions and resources created by the community &lt;3
 - [Cobra](https://github.com/santiyounger/Cobra) by santiyounger
 - [Enhanced Dark Theme](https://github.com/mschmidtkorth/logseq-msk-enhanced) by  mschmidtkorth
 - [logseq-default-dark-0-saturation](https://github.com/LeonWong0609/logseq-default-dark-0-saturation) by LeonWong0609
-- [Solarized Light](https://github.com/nmartin84/logseq-solarized) by nmartin84
-- [Tokyo Night](https://github.com/nmartin84/logseq-tokyo-night-theme) by nmartin84
 - [Logseq Bear Theme](https://github.com/rcvd/logseq-bear-theme) by Alexander Rink
 - [Logseq All Day theme](https://github.com/tobealive/logseq-allday-theme) by tobealive
 - [Logseq Textbook Theme](https://github.com/joeykhuang/logseq-textbook-theme) by joeykhuang
@@ -143,7 +141,6 @@ These are integrations that are officially supported by the third party:
 
 - [花园漫步 to the Garden](https://tothegarden.vercel.app/)
 - <https://zhangxueshan246.github.io/#/graph>
-- <https://xutuan.vercel.app/> - logseq 使用经验分享
 - [OKR + GTD + Note => Logseq](https://www.bmpi.dev/self/okr-gtd-note-logseq/)
 - [Abosen's Digital Garden](https://logseq.abosen.top)
 
