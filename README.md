@@ -128,6 +128,8 @@ These are integrations that are officially supported by the third party:
   Logseq
 - [Logseq Advanced Query Builder](https://adxsoft.github.io/logseqadvancedquerybuilder/) by adxsoft - An Experimental online tool to help Logseq Users build advanced queries from simple commands
 - [movie-cli-2](https://github.com/cannibalox/movie-cli-2) - CLI tool for saving movie details into Logseq
+- [longdown](https://github.com/dundalek/longdown) - CLI tool for converting longform markdown to
+  logseq markdown
 
 ## 🌱 Community Knowledge Gardens
 
