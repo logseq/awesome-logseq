@@ -34,7 +34,7 @@ Awesome Logseq extensions and resources created by the community &lt;3
 - [logseq-bonofix-theme](https://github.com/Sansui233/logseq-bonofix-theme/) By Sansui233
 - [logseq-dev-theme](https://github.com/pengx17/logseq-dev-theme) By pengx17
 - [Cobra](https://github.com/santiyounger/Cobra) by santiyounger
-- [Enhanced Dark Theme](https://github.com/mschmidtkorth/logseq-msk-enhanced) by  mschmidtkorth
+- [Enhanced Dark Theme](https://github.com/mschmidtkorth/logseq-msk-enhanced) by mschmidtkorth
 - [logseq-default-dark-0-saturation](https://github.com/LeonWong0609/logseq-default-dark-0-saturation) by LeonWong0609
 - [Logseq Bear Theme](https://github.com/rcvd/logseq-bear-theme) by Alexander Rink
 - [Logseq All Day theme](https://github.com/tobealive/logseq-allday-theme) by tobealive
@@ -121,6 +121,7 @@ These are integrations that are officially supported by the third party:
   results next to google ones
 - [logseqtemplates](https://www.logseqtemplates.com/) - Browse, share and download community templates. Sharing is done through the plugin
 - [logseq-guide](https://github.com/dustinlacewell/logseq-guide) - Self hosting Logseq
+- [logseq-doctor](https://github.com/andreoliwa/logseq-doctor) By andreoliwa - Heal your Markdown files. CLI tool to convert to outline, list tasks, and more tools to come
 
 ## 🔍 Other Resources
 
