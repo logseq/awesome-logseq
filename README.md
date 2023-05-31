@@ -106,6 +106,7 @@ These are integrations that are officially supported by the third party:
 - [logseq-snippets](https://github.com/71/logseq-snippets) By Greg - custom queries, code snippets, RSS feeds, and other extensions of the Logseq platform
 - [logseq-zotero](https://github.com/aljedaxi/logseq-zotero/) By Aljedaxi - rudimentary means of exporting a zotero library to logseq
 - [gcal2logseq](https://github.com/WilliamDurin/gcal2logseq) By Will - Python Script + Alfred Workflow to add Google Calendar events into your graph
+- [keep2log](https://github.com/lugenx/keep2log) By lugenx - CLI tool that converts Google Keep Takeout files to Logseq journal entries, allowing you to migrate your notes from Google Keep to the Logseq note-taking app.
 - [todoist2logseq](https://github.com/WilliamDurin/todoist2logseq) By Will - Bash Script + Alfred Workflow to import tasks from Todoist into your graph
 - [org-logseq](https://github.com/ansmirnov/org-logseq) By ansmirnov - A script for navigating and editing logseq files using emacs
 - [org-logseq](https://github.com/llcc/org-logseq) By llcc - Another elisp package to work with logseq when using emacs
