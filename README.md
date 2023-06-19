@@ -85,6 +85,7 @@ These are integrations that are officially supported by the third party:
 - [Omnivore](https://github.com/omnivore-app/logseq-omnivore) - Provides Logseq plugin to fetch
   Omnivore articles and highlights
 - [NeuraCache](https://neuracache.com/) - Mobile app that provides additional flashcard and spaced repetition functionality on Logseq graphs
+- [五彩](https://github.com/makediff/logseq-wucai-official-plugin) - Provides Logseq plugin to export WuCai highlights to Logseq
 
 ## 📚 Guides and How-tos
 
