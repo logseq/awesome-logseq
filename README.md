@@ -99,6 +99,7 @@ These are integrations that are officially supported by the third party:
 - [Making Obsidian play nice with Logseq](https://discuss.logseq.com/t/making-obsidian-play-nice-with-logseq/1185) By Luhmann
 - [Bookmarklets that copy webpage title + URL+ selection to md/org formats, convenient for pasting to logseq](https://gist.github.com/idelem/a2b15c4fe7613487e16fb55ba3af1be9)
 - [Publish your notes as site](https://devops.bike/publish-your-notes-as-site)
+- [✨Logseq Demo Graph✨](https://github.com/candideu/Logseq-Demo-Graph):  Quick start Logseq graph to find your way around the app. Learn about blocks, pages, internal links, references, graphs, formatting, plugins, advanced tips and tricks, working with media files, and publishing your graph online
 
 ## 💡 Workflows and Innovations
 
