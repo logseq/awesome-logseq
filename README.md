@@ -143,6 +143,7 @@ These are integrations that are officially supported by the third party:
 - [Logseq documentation](https://docs.logseq.com/)
 - [Unofficial Logseq Documentation](https://mschmidtkorth.github.io/logseq-msk-docs) By [mschmidtkorth](https://github.com/mschmidtkorth)
 - <https://beepb00p.xyz/logseq/#/page/Personal%20infra> By [karlicoss](https://github.com/karlicoss)
+- [cortex](https://savolla.github.io/cortex/) by [savolla](https://github.com/savolla)
 
 ### 🇨🇳 Zh-CN
 
