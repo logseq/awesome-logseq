@@ -72,7 +72,8 @@ See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Themes`
 - [logseq13-full-house](https://github.com/stdword/logseq13-full-house-plugin) by stdword — Logseq Templates you will really love ❤️
 - [logseq-plugin-bullet-threading](https://github.com/pengx17/logseq-plugin-bullet-threading) by pengx17 - Add bullet threading to your active blocks in Logseq
 - [logseq-jira](https://github.com/adyscorpius/logseq-jira) by adyscorpius - Update Jira ticket details in your active blocks in Logseq.
-  
+- [logseq-gallery](https://github.com/CorrectRoadH/logseq-gallery) by CorrectRoad - provides a gallery view for query.
+
 See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Plugins` for a full list
 
 ## 🤝 Third Party Integrations
