@@ -73,7 +73,7 @@ See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Themes`
 - [logseq-plugin-bullet-threading](https://github.com/pengx17/logseq-plugin-bullet-threading) by pengx17 - Add bullet threading to your active blocks in Logseq
 - [logseq-jira](https://github.com/adyscorpius/logseq-jira) by adyscorpius - Update Jira ticket details in your active blocks in Logseq.
 - [logseq-plugin-image-resizer](https://github.com/yutaodou/logseq-image-auto-resizer) by yutaodou - A Logseq plugin which set your image to customized size automatically.
-  
+
 See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Plugins` for a full list
 
 ## 🤝 Third Party Integrations
@@ -127,11 +127,10 @@ These are integrations that are officially supported by the third party:
 - [logseqtemplates](https://www.logseqtemplates.com/) - Browse, share and download community templates. Sharing is done through the plugin
 - [logseq-guide](https://github.com/dustinlacewell/logseq-guide) - Self hosting Logseq
 - [logseq-doctor](https://github.com/andreoliwa/logseq-doctor) By andreoliwa - Heal your Markdown files. CLI tool to convert to outline, list tasks, and more tools to come
-- [save-to-logseq](https://bit.ly/3vIo3fI) By yutaodou - Web clipper extension for Logseq. Send page, selection text, page link, images, twitter, YouTube video to Logseq via Logseq HTTPs API server. 
+- [save-to-logseq](https://chromewebstore.google.com/detail/send-to-logseq/mgdccnefjlmhnfbmlnhddoogimbpmilj) By yutaodou - Web clipper extension for Logseq. Send page, selection text, page link, images, twitter, YouTube video to Logseq via Logseq HTTPs API server.
 
 ## 🔍 Other Resources
 
-- Logseq Times - Unofficial home for news, updates and opinions from the world of Logseq
 - [Logseq Advanced Query Builder](https://adxsoft.github.io/logseqadvancedquerybuilder/) by adxsoft - An Experimental online tool to help Logseq Users build advanced queries from simple commands
 - [movie-cli-2](https://github.com/cannibalox/movie-cli-2) - CLI tool for saving movie details into Logseq
 - [longdown](https://github.com/dundalek/longdown) - CLI tool for converting longform markdown to logseq markdown
