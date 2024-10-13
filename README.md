@@ -128,6 +128,7 @@ These are integrations that are officially supported by the third party:
 - [logseq-guide](https://github.com/dustinlacewell/logseq-guide) - Self hosting Logseq
 - [logseq-doctor](https://github.com/andreoliwa/logseq-doctor) By andreoliwa - Heal your Markdown files. CLI tool to convert to outline, list tasks, and more tools to come
 - [save-to-logseq](https://chromewebstore.google.com/detail/send-to-logseq/mgdccnefjlmhnfbmlnhddoogimbpmilj) By yutaodou - Web clipper extension for Logseq. Send page, selection text, page link, images, twitter, YouTube video to Logseq via Logseq HTTPs API server.
+- [logseq-mass-pages-recovery](https://github.com/jmbenedetto/logseq_mass_pages_recovery.git) by JMB - Jupyther notebook writen in python to undo mass pages changes as the ones done through VS Code. It leverages LogSeq backup in logseq/bak dir within LogSeq local graph.
 
 ## 🔍 Other Resources
 
