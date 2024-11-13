@@ -11,6 +11,7 @@ Awesome Logseq extensions and resources created by the community &lt;3
 - [🤝 Third Party Integrations](#-third-party-integrations)
 - [📚 Guides and How-tos](#-guides-and-how-tos)
 - [💡 Workflows and Innovations](#-workflows-and-innovations)
+  - [🗎 Bibliography and PDF Integrations](#-bibliography-and-pdf-integrations)
 - [🔍 Other Resources](#-other-resources)
 - [🌱 Community Knowledge Gardens](#-community-knowledge-gardens)
   - [🇺🇲 En](#-en)
