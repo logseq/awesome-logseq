@@ -129,10 +129,11 @@ These are integrations that are officially supported by the third party:
 - [save-to-logseq](https://chromewebstore.google.com/detail/send-to-logseq/mgdccnefjlmhnfbmlnhddoogimbpmilj) By yutaodou - Web clipper extension for Logseq. Send page, selection text, page link, images, twitter, YouTube video to Logseq via Logseq HTTPs API server.
 - [logseq-mass-pages-recovery](https://github.com/jmbenedetto/logseq_mass_pages_recovery.git) by JMB - Jupyther notebook writen in python to undo mass pages changes as the ones done through VS Code. It leverages LogSeq backup in logseq/bak dir within LogSeq local graph.
 
-### Zotero and PDF Integrations
-Zotero is widely used in scientific research, and scientist often need to read PDFs and take in-depth notes.
+### Bibliography and PDF Integrations
+Bibliography managers (eg Zotero) are widely used in scientific research, and scientist often need to read PDFs and take in-depth notes.
 - [/zotero](https://docs.logseq.com/#/page/zotero) command - native Zotero integration
-- [logseq-pdf-extract](https://github.com/e-zz/logseq-pdf-extract) by e-zz - Works with local zotero (no internet needed), [OCRs and extracts math formulas]([url](https://github.com/e-zz/logseq-pdf-extract?tab=readme-ov-file#2-annotation-extraction-)) ([see comparison](https://github.com/e-zz/logseq-pdf-extract/discussions/6))
+- [logseq-pdf-extract](https://github.com/e-zz/logseq-pdf-extract) by e-zz - Works with local zotero (no internet needed, thus faster), [OCRs and extracts math formulas]([url](https://github.com/e-zz/logseq-pdf-extract?tab=readme-ov-file#2-annotation-extraction-)) ([see comparison](https://github.com/e-zz/logseq-pdf-extract/discussions/6))
+- [logseq-citation-manager](https://github.com/sawhney17/logseq-citation-manager) by sawhney17 - Works on .bib files, so it supports Zotero, Paperpile and any other bib manager that supports this standard format
 - [logseq-zotero](https://github.com/aljedaxi/logseq-zotero/) By Aljedaxi - rudimentary means of exporting a zotero library to logseq
 - [logseq-pdf-export](https://github.com/sawhney17/logseq-pdf-export) by sawhney17 - customizable PDF export
 - [logseq-pdf-nav](https://github.com/OverflowCat/logseq-pdf-nav) by OverflowCat - better navigation between internal PDF locations
