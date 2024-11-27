@@ -93,7 +93,6 @@ These are integrations that are officially supported by the third party:
 ## 📚 Guides and How-tos
 
 - [An introduction to Logseq](https://youtu.be/Vw-x7yTTO0s) By Ed (Tech and Travel with Ed)
-- [Logseq Update Video](https://www.youtube.com/watch?v=Vw-x7yTTO0s)
 - [How I use Logseq Daily](https://www.youtube.com/watch?v=JCIdJBZGQLQ)
 - [Logseq Update for Local File Storage](https://www.youtube.com/watch?v=Afmqowr0qEQ&ab_channel=TechWithEd)
 - [Roam Research Best Free Alternative Logseq](https://www.youtube.com/watch?v=jovMt17_Vd4) By Santi Younger
