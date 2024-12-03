@@ -75,6 +75,7 @@ See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Themes`
 - [logseq-jira](https://github.com/adyscorpius/logseq-jira) by adyscorpius - Update Jira ticket details in your active blocks in Logseq.
 - [logseq-gallery](https://github.com/CorrectRoadH/logseq-gallery) by CorrectRoad - provides a gallery view for query.
 - [logseq-plugin-image-resizer](https://github.com/yutaodou/logseq-image-auto-resizer) by yutaodou - A Logseq plugin which set your image to customized size automatically.
+- [logseq-plugin-ai-query](https://github.com/dailydaniel/logseq-plugin-ai-query) - AI generation of advanced queries
 
 See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Plugins` for a full list
 
@@ -109,26 +110,19 @@ These are integrations that are officially supported by the third party:
 - [logseq-tools](https://github.com/PiotrSss/logseq-tools) By PiotrSss - calendars, themes and more
 - [logseq-encrypt-ui](https://github.com/kanru/logseq-encrypt-ui) By Kanru - encrypt and decrypt all the files
 - [logseq-snippets](https://github.com/71/logseq-snippets) By Greg - custom queries, code snippets, RSS feeds, and other extensions of the Logseq platform
-- [gcal2logseq](https://github.com/WilliamDurin/gcal2logseq) By Will - Python Script + Alfred Workflow to add Google Calendar events into your graph
-- [keep2log](https://github.com/lugenx/keep2log) By lugenx - CLI tool that converts Google Keep Takeout files to Logseq journal entries, allowing you to migrate your notes from Google Keep to the Logseq note-taking app.
-- [todoist2logseq](https://github.com/WilliamDurin/todoist2logseq) By Will - Bash Script + Alfred Workflow to import tasks from Todoist into your graph
-- [org-logseq](https://github.com/ansmirnov/org-logseq) By ansmirnov - A script for navigating and editing logseq files using emacs
 - [org-logseq](https://github.com/llcc/org-logseq) By llcc - Another elisp package to work with logseq when using emacs
-- [webapp to local asset folder](https://gist.github.com/lezuber/aa034d82b3a21d7d96fcc73a9b906b25) By lezuber - A small python script for logseq webapp users that want to switch to the local version. It downloads all images to the local /assets folder
-- [dayone2logseq-md](https://github.com/mhejda/dayone2logseq-md) By mhejda - Python script for batch conversion of DayOne JSON-exported journals into Logseq-friendly Markdown files
 - [Yarle](https://github.com/akosbalasko/yarle) By akosbalasko - Yarle(Yet Another Rope Ladder from Evernote) is a cross-platform desktop tool that converts Evernote notebooks into Markdown format supporting Logseq dialect comprehensively
 - [LogLink](https://loglink.it/) - Send text, images and locations from mobile via Telegram (and
   soon other platforms) to your graph
-- [dly](https://github.com/wsw70/dly) - Create a daily note directly from the command line
 - [fireSeqSearch](https://github.com/Endle/fireSeqSearch) - Extension that displays logseq results
   alongside google ones
 - [logseq-copilot](https://github.com/EINDEX/logseq-copilot) - Chrome extension that display logseq
   results next to google ones
 - [logseqtemplates](https://www.logseqtemplates.com/) - Browse, share and download community templates. Sharing is done through the plugin
 - [logseq-guide](https://github.com/dustinlacewell/logseq-guide) - Self hosting Logseq
-- [logseq-doctor](https://github.com/andreoliwa/logseq-doctor) By andreoliwa - Heal your Markdown files. CLI tool to convert to outline, list tasks, and more tools to come
 - [save-to-logseq](https://chromewebstore.google.com/detail/send-to-logseq/mgdccnefjlmhnfbmlnhddoogimbpmilj) By yutaodou - Web clipper extension for Logseq. Send page, selection text, page link, images, twitter, YouTube video to Logseq via Logseq HTTPs API server.
 - [logseq-mass-pages-recovery](https://github.com/jmbenedetto/logseq_mass_pages_recovery.git) by JMB - Jupyther notebook writen in python to undo mass pages changes as the ones done through VS Code. It leverages LogSeq backup in logseq/bak dir within LogSeq local graph.
+- [Logseq Advanced Query Builder](https://adxsoft.github.io/logseqadvancedquerybuilder/) by adxsoft - An Experimental online tool to help Logseq Users build advanced queries from simple commands
 
 ### Bibliography and PDF Integrations
 Bibliography managers (eg Zotero) are widely used in scientific research, and scientist often need to read PDFs and take in-depth notes.
@@ -139,11 +133,19 @@ Bibliography managers (eg Zotero) are widely used in scientific research, and sc
 - [logseq-pdf-export](https://github.com/sawhney17/logseq-pdf-export) by sawhney17 - customizable PDF export
 - [logseq-pdf-nav](https://github.com/OverflowCat/logseq-pdf-nav) by OverflowCat - better navigation between internal PDF locations
 
-## 🔍 Other Resources
+## 🔍 CLI Tools and Scripts
 
-- [Logseq Advanced Query Builder](https://adxsoft.github.io/logseqadvancedquerybuilder/) by adxsoft - An Experimental online tool to help Logseq Users build advanced queries from simple commands
 - [movie-cli-2](https://github.com/cannibalox/movie-cli-2) - CLI tool for saving movie details into Logseq
 - [longdown](https://github.com/dundalek/longdown) - CLI tool for converting longform markdown to logseq markdown
+- [lsq](https://github.com/jrswab/lsq) - CLI tool to quickly create and edit journals
+- [logseq-doctor](https://github.com/andreoliwa/logseq-doctor) By andreoliwa - Heal your Markdown files. CLI tool to convert to outline, list tasks, and more tools to come
+- [gcal2logseq](https://github.com/WilliamDurin/gcal2logseq) By Will - Python Script + Alfred Workflow to add Google Calendar events into your graph
+- [keep2log](https://github.com/lugenx/keep2log) By lugenx - CLI tool that converts Google Keep Takeout files to Logseq journal entries, allowing you to migrate your notes from Google Keep to the Logseq note-taking app.
+- [todoist2logseq](https://github.com/WilliamDurin/todoist2logseq) By Will - Bash Script + Alfred Workflow to import tasks from Todoist into your graph
+- [org-logseq](https://github.com/ansmirnov/org-logseq) By ansmirnov - A script for navigating and editing logseq files using emacs
+- [dayone2logseq-md](https://github.com/mhejda/dayone2logseq-md) By mhejda - Python script for batch conversion of DayOne JSON-exported journals into Logseq-friendly Markdown files
+- [dly](https://github.com/wsw70/dly) - Create a daily note directly from the command line
+- [webapp to local asset folder](https://gist.github.com/lezuber/aa034d82b3a21d7d96fcc73a9b906b25) By lezuber - A small python script for logseq webapp users that want to switch to the local version. It downloads all images to the local /assets folder
 
 ## 🌱 Community Knowledge Gardens
 
