@@ -135,17 +135,22 @@ Bibliography managers (eg Zotero) are widely used in scientific research, and sc
 
 ## 🔍 CLI Tools and Scripts
 
-- [movie-cli-2](https://github.com/cannibalox/movie-cli-2) - CLI tool for saving movie details into Logseq
+### Conversion
 - [longdown](https://github.com/dundalek/longdown) - CLI tool for converting longform markdown to logseq markdown
-- [lsq](https://github.com/jrswab/lsq) - CLI tool to quickly create and edit journals
 - [logseq-doctor](https://github.com/andreoliwa/logseq-doctor) By andreoliwa - Heal your Markdown files. CLI tool to convert to outline, list tasks, and more tools to come
-- [gcal2logseq](https://github.com/WilliamDurin/gcal2logseq) By Will - Python Script + Alfred Workflow to add Google Calendar events into your graph
 - [keep2log](https://github.com/lugenx/keep2log) By lugenx - CLI tool that converts Google Keep Takeout files to Logseq journal entries, allowing you to migrate your notes from Google Keep to the Logseq note-taking app.
 - [todoist2logseq](https://github.com/WilliamDurin/todoist2logseq) By Will - Bash Script + Alfred Workflow to import tasks from Todoist into your graph
-- [org-logseq](https://github.com/ansmirnov/org-logseq) By ansmirnov - A script for navigating and editing logseq files using emacs
 - [dayone2logseq-md](https://github.com/mhejda/dayone2logseq-md) By mhejda - Python script for batch conversion of DayOne JSON-exported journals into Logseq-friendly Markdown files
+- [craft-to-logseq](https://github.com/omair-inam/craft-to-logseq/) - By omair-inam - A shell script that converts Craft markdown documents and journals into Logseq-friendly markdown files.
+
+### Other
+- [movie-cli-2](https://github.com/cannibalox/movie-cli-2) - CLI tool for saving movie details into Logseq
+- [lsq](https://github.com/jrswab/lsq) - CLI tool to quickly create and edit journals
+- [gcal2logseq](https://github.com/WilliamDurin/gcal2logseq) By Will - Python Script + Alfred Workflow to add Google Calendar events into your graph
+- [org-logseq](https://github.com/ansmirnov/org-logseq) By ansmirnov - A script for navigating and editing logseq files using emacs
 - [dly](https://github.com/wsw70/dly) - Create a daily note directly from the command line
 - [webapp to local asset folder](https://gist.github.com/lezuber/aa034d82b3a21d7d96fcc73a9b906b25) By lezuber - A small python script for logseq webapp users that want to switch to the local version. It downloads all images to the local /assets folder
+
 
 ## 🌱 Community Knowledge Gardens
 
