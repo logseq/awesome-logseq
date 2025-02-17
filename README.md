@@ -112,13 +112,10 @@ These are integrations that are officially supported by the third party:
 - [logseq-snippets](https://github.com/71/logseq-snippets) By Greg - custom queries, code snippets, RSS feeds, and other extensions of the Logseq platform
 - [org-logseq](https://github.com/llcc/org-logseq) By llcc - Another elisp package to work with logseq when using emacs
 - [Yarle](https://github.com/akosbalasko/yarle) By akosbalasko - Yarle(Yet Another Rope Ladder from Evernote) is a cross-platform desktop tool that converts Evernote notebooks into Markdown format supporting Logseq dialect comprehensively
-- [LogLink](https://loglink.it/) - Send text, images and locations from mobile via Telegram (and
-  soon other platforms) to your graph
 - [fireSeqSearch](https://github.com/Endle/fireSeqSearch) - Extension that displays logseq results
   alongside google ones
 - [logseq-copilot](https://github.com/EINDEX/logseq-copilot) - Chrome extension that display logseq
   results next to google ones
-- [logseqtemplates](https://www.logseqtemplates.com/) - Browse, share and download community templates. Sharing is done through the plugin
 - [logseq-guide](https://github.com/dustinlacewell/logseq-guide) - Self hosting Logseq
 - [save-to-logseq](https://chromewebstore.google.com/detail/send-to-logseq/mgdccnefjlmhnfbmlnhddoogimbpmilj) By yutaodou - Web clipper extension for Logseq. Send page, selection text, page link, images, twitter, YouTube video to Logseq via Logseq HTTPs API server.
 - [logseq-mass-pages-recovery](https://github.com/jmbenedetto/logseq_mass_pages_recovery.git) by JMB - Jupyther notebook writen in python to undo mass pages changes as the ones done through VS Code. It leverages LogSeq backup in logseq/bak dir within LogSeq local graph.
@@ -135,15 +132,16 @@ Bibliography managers (eg Zotero) are widely used in scientific research, and sc
 
 ## 🔍 CLI Tools and Scripts
 
-### Conversion
+### Conversion CLI
 - [longdown](https://github.com/dundalek/longdown) - CLI tool for converting longform markdown to logseq markdown
 - [logseq-doctor](https://github.com/andreoliwa/logseq-doctor) By andreoliwa - Heal your Markdown files. CLI tool to convert to outline, list tasks, and more tools to come
 - [keep2log](https://github.com/lugenx/keep2log) By lugenx - CLI tool that converts Google Keep Takeout files to Logseq journal entries, allowing you to migrate your notes from Google Keep to the Logseq note-taking app.
 - [todoist2logseq](https://github.com/WilliamDurin/todoist2logseq) By Will - Bash Script + Alfred Workflow to import tasks from Todoist into your graph
 - [dayone2logseq-md](https://github.com/mhejda/dayone2logseq-md) By mhejda - Python script for batch conversion of DayOne JSON-exported journals into Logseq-friendly Markdown files
 - [craft-to-logseq](https://github.com/omair-inam/craft-to-logseq/) - By omair-inam - A shell script that converts Craft markdown documents and journals into Logseq-friendly markdown files.
+- [joplin-to-logseq-importer](https://github.com/dasrecht/joplin-to-logseq-importer) - CLI tool for converting [Joplin](https://joplinapp.org/) notes to Logseq markdown.
 
-### Other
+### Misc CLI
 - [movie-cli-2](https://github.com/cannibalox/movie-cli-2) - CLI tool for saving movie details into Logseq
 - [lsq](https://github.com/jrswab/lsq) - CLI tool to quickly create and edit journals
 - [gcal2logseq](https://github.com/WilliamDurin/gcal2logseq) By Will - Python Script + Alfred Workflow to add Google Calendar events into your graph
