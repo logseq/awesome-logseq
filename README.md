@@ -76,6 +76,7 @@ See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Themes`
 - [logseq-gallery](https://github.com/CorrectRoadH/logseq-gallery) by CorrectRoad - provides a gallery view for query.
 - [logseq-plugin-image-resizer](https://github.com/yutaodou/logseq-image-auto-resizer) by yutaodou - A Logseq plugin which set your image to customized size automatically.
 - [logseq-plugin-ai-query](https://github.com/dailydaniel/logseq-plugin-ai-query) - AI generation of advanced queries
+- [logseq-plugin-copilot](https://github.com/chhabrakadabra/logseq-plugin-copilot) by chhabrakadabra - Talk to AI about your Logseq notes.
 
 See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Plugins` for a full list
 
