@@ -18,4 +18,4 @@ jobs:
     - name: Install Awesome Bot
       run: gem install awesome_bot
     - name: Run Awesome Bot
-      run: awesome_bot --allow-redirect --allow-dupe --skip-save-results `find . -name "*.md"`
+      run: awesome_bot --allow-redirect --allow-dupe --allow 429 --skip-save-results `find . -name "*.md"`
