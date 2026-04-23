@@ -47,6 +47,7 @@ Awesome Logseq extensions and resources created by the community &lt;3
 - [Catppuccin](https://github.com/catppuccin/logseq) by griimick
 - [Logseq-Nord-Theme](https://github.com/Bad3r/Logseq-Nord-Theme) by Bad3r
 - [Logseq PolyRhythmic](https://github.com/wonyoung-jang/logseq-PolyRhythmic) by Wonyoung Jang
+- [Logseq Slatewave](https://github.com/kevinlangleyjr/logseq-slatewave) by kevinlangleyjr
 
 See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Themes` for a full list
 
