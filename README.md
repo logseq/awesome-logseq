@@ -89,8 +89,6 @@ These are integrations that are officially supported by the third party:
 
 - [Readwise](https://github.com/readwiseio/logseq-readwise-official-plugin#readme) - Provides Logseq plugin to export Readwise highlights to Logseq
 - [Matter](https://github.com/getmatterapp/logseq-matter#readme) - Provides Logseq plugin to sync Matter highlights with Logseq
-- [SamePage](https://samepage.network/docs/logseq/install) - Provides Logseq plugin to sync your graph with SamePage notebooks
-- [Snipd](https://hub.logseq.com/integrations/aV9AgETypcPcf8avYcHXQT/feed-your-logseq-graph-using-snipd-podcast-notes/3U63PohVXL24PvbvXUzf2b) - Mobile app that exports Snipd podcast notes to Logseq
 - [Omnivore](https://github.com/omnivore-app/logseq-omnivore) - Provides Logseq plugin to fetch
   Omnivore articles and highlights
 - [NeuraCache](https://neuracache.com/) - Mobile app that provides additional flashcard and spaced repetition functionality on Logseq graphs
@@ -161,7 +159,6 @@ Bibliography managers (eg Zotero) are widely used in scientific research, and sc
 - [Logseq documentation](https://docs.logseq.com/)
 - [Unofficial Logseq Documentation](https://mschmidtkorth.github.io/logseq-msk-docs) By [mschmidtkorth](https://github.com/mschmidtkorth)
 - <https://beepb00p.xyz/logseq/#/page/Personal%20infra> By [karlicoss](https://github.com/karlicoss)
-- [cortex](https://savolla.github.io/cortex/) by [savolla](https://github.com/savolla)
 
 ### 🇨🇳 Zh-CN
 
