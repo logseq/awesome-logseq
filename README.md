@@ -122,6 +122,7 @@ These are integrations that are officially supported by the third party:
 - [save-to-logseq](https://chromewebstore.google.com/detail/send-to-logseq/mgdccnefjlmhnfbmlnhddoogimbpmilj) By yutaodou - Web clipper extension for Logseq. Send page, selection text, page link, images, twitter, YouTube video to Logseq via Logseq HTTPs API server.
 - [logseq-mass-pages-recovery](https://github.com/jmbenedetto/logseq_mass_pages_recovery.git) by JMB - Jupyther notebook writen in python to undo mass pages changes as the ones done through VS Code. It leverages LogSeq backup in logseq/bak dir within LogSeq local graph.
 - [Logseq Advanced Query Builder](https://adxsoft.github.io/logseqadvancedquerybuilder/) by adxsoft - An Experimental online tool to help Logseq Users build advanced queries from simple commands
+- [llm-wiki](https://github.com/MehmetGoekce/llm-wiki) by MehmetGoekce - Maintain your Logseq graph automatically with Claude Code. Implements [Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) with five operations (`/wiki ingest`, `query`, `lint`, `status`, `migrate`), schema-driven consistency, and automated health checks (orphans, stale pages, broken refs, credential leaks). Two-layer cache architecture (auto-loaded rules + on-demand wiki).
 
 ### Bibliography and PDF Integrations
 Bibliography managers (eg Zotero) are widely used in scientific research, and scientist often need to read PDFs and take in-depth notes.
