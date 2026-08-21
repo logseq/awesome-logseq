@@ -151,6 +151,7 @@ Bibliography managers (eg Zotero) are widely used in scientific research, and sc
 - [org-logseq](https://github.com/ansmirnov/org-logseq) By ansmirnov - A script for navigating and editing logseq files using emacs
 - [dly](https://github.com/wsw70/dly) - Create a daily note directly from the command line
 - [webapp to local asset folder](https://gist.github.com/lezuber/aa034d82b3a21d7d96fcc73a9b906b25) By lezuber - A small python script for logseq webapp users that want to switch to the local version. It downloads all images to the local /assets folder
+- [TopicSplit](https://github.com/andrwspt/topicsplit) - Free offline semantic text grouper. Split articles and transcripts into topic segments by meaning, not word count. Perfect for atomizing long-form content into Logseq journal blocks. 100% browser-based, MIT licensed.
 
 
 ## 🌱 Community Knowledge Gardens
