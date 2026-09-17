@@ -151,6 +151,7 @@ Bibliography managers (eg Zotero) are widely used in scientific research, and sc
 - [org-logseq](https://github.com/ansmirnov/org-logseq) By ansmirnov - A script for navigating and editing logseq files using emacs
 - [dly](https://github.com/wsw70/dly) - Create a daily note directly from the command line
 - [webapp to local asset folder](https://gist.github.com/lezuber/aa034d82b3a21d7d96fcc73a9b906b25) By lezuber - A small python script for logseq webapp users that want to switch to the local version. It downloads all images to the local /assets folder
+- [logseq-cli](https://github.com/muellerei/logseq-cli) - Read and write a graph from the shell — pages, journals, blocks and search, with JSON output and a dry run on every write. File-based (Markdown) graphs.
 
 
 ## 🌱 Community Knowledge Gardens
